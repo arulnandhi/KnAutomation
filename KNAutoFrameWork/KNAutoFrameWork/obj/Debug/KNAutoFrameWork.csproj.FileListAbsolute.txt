@@ -7,3 +7,12 @@ C:\Users\Arul\documents\visual studio 2012\Projects\KNAutoFrameWork\KNAutoFrameW
 C:\Users\Arul\documents\visual studio 2012\Projects\KNAutoFrameWork\KNAutoFrameWork\obj\Debug\KNAutoFrameWork.csprojResolveAssemblyReference.cache
 C:\Users\Arul\documents\visual studio 2012\Projects\KNAutoFrameWork\KNAutoFrameWork\obj\Debug\KNAutoFrameWork.dll
 C:\Users\Arul\documents\visual studio 2012\Projects\KNAutoFrameWork\KNAutoFrameWork\obj\Debug\KNAutoFrameWork.pdb
+C:\Users\Arul\Documents\GitHub\KnAutomation\KNAutoFrameWork\KNAutoFrameWork\bin\Debug\KNAutoFrameWork.dll
+C:\Users\Arul\Documents\GitHub\KnAutomation\KNAutoFrameWork\KNAutoFrameWork\bin\Debug\KNAutoFrameWork.pdb
+C:\Users\Arul\Documents\GitHub\KnAutomation\KNAutoFrameWork\KNAutoFrameWork\bin\Debug\WebDriver.dll
+C:\Users\Arul\Documents\GitHub\KnAutomation\KNAutoFrameWork\KNAutoFrameWork\bin\Debug\WebDriver.Support.dll
+C:\Users\Arul\Documents\GitHub\KnAutomation\KNAutoFrameWork\KNAutoFrameWork\bin\Debug\WebDriver.xml
+C:\Users\Arul\Documents\GitHub\KnAutomation\KNAutoFrameWork\KNAutoFrameWork\bin\Debug\WebDriver.Support.xml
+C:\Users\Arul\Documents\GitHub\KnAutomation\KNAutoFrameWork\KNAutoFrameWork\obj\Debug\KNAutoFrameWork.csprojResolveAssemblyReference.cache
+C:\Users\Arul\Documents\GitHub\KnAutomation\KNAutoFrameWork\KNAutoFrameWork\obj\Debug\KNAutoFrameWork.dll
+C:\Users\Arul\Documents\GitHub\KnAutomation\KNAutoFrameWork\KNAutoFrameWork\obj\Debug\KNAutoFrameWork.pdb

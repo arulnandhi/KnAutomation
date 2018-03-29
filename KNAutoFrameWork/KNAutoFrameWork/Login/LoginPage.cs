@@ -20,7 +20,7 @@ namespace KNAutoFrameWork
         {
             get
             {
-                return new Login(Html.Descendant(string.Empty));
+                return new Login(Html.Descendant("body"));
             }
 
         }

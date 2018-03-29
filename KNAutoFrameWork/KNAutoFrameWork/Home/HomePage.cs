@@ -23,7 +23,7 @@ namespace KNAutoFrameWork
             {
                 Html.Driver.WaitForAjax();
                 Html.Driver.waituntil(By.CssSelector("div.primary-nav"));
-                return new Home(Html.Descendant(string.Empty));
+                return new Home(Html.Descendant("div.primary-nav"));
             }
         }
 
