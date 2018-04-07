@@ -69,5 +69,13 @@ namespace KNAutoFrameWork
  
         }
 
+        public static void DrawBorder(this IWebElement element, IWebDriver driver)
+        {
+            var js = (driver as IJavaScriptExecutor);
+            js.ExecuteScript("return style.border = '3px solid red", element);
+        }
+
+
+
     }
 }

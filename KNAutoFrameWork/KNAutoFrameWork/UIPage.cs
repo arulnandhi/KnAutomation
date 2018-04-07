@@ -11,7 +11,10 @@ namespace KNAutoFrameWork
         public UIPage(HtmlPage page) : 
             base(page)
         {
-
+         
         }
+
+
+
     }
 }

@@ -14,12 +14,22 @@ namespace KNAutoFrameWork
          {
          }
 
-             
-        
+         
+
+         
              
              public LoginPage  selectLogin()
              {
-                 Html.Element.FindElement(By.CssSelector("a#login")).Click();
+
+                 IWebElement el = Html.Element.FindElement(By.CssSelector("a#login"));
+
+                 //el.FindElements
+                 //Html.Driver.DrawBorder(el);
+                 el.DrawBorder(Html.Driver);
+                 el.Click();
+                 
+                 
+              
 
                  return new LoginPage(new HtmlPage(Html.Driver));
                  
